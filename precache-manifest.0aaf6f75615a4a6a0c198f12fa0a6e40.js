@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cce67cecd0865caeebb032515a781e6",
+    "revision": "4c1cc5899e364708edd4510251fae626",
     "url": "/game_dog/index.html"
   },
   {
-    "revision": "03956fc76259e9cbd6af",
+    "revision": "cc0ee79471ec50c6aa97",
     "url": "/game_dog/static/css/main.2c7d709b.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game_dog/static/js/2.f6e7e21b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03956fc76259e9cbd6af",
-    "url": "/game_dog/static/js/main.2ba75590.chunk.js"
+    "revision": "cc0ee79471ec50c6aa97",
+    "url": "/game_dog/static/js/main.e453b08b.chunk.js"
   },
   {
     "revision": "6d800778d3d0e9092b83",
     "url": "/game_dog/static/js/runtime-main.65d27b20.js"
   },
   {
-    "revision": "bb3d38dd01f1610226180067be2ae4af",
-    "url": "/game_dog/static/media/Sasha.bb3d38dd.jpg"
+    "revision": "4e2b0b6db83c02c9df9792790801d81b",
+    "url": "/game_dog/static/media/gryphon.4e2b0b6d.jpg"
   },
   {
     "revision": "7b484a183e3434ee3d15247dd9c3e0ec",
