@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Field.module.css";
-import dog from "../../../pictures/WordPress.jpg";
+import dog from "../../../pictures/gryphon.jpg";
 
 class Field extends React.Component {
 
