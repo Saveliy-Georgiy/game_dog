@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/game_dog/static/css/main.2c7d709b.chunk.css",
-    "main.js": "/game_dog/static/js/main.e453b08b.chunk.js",
-    "main.js.map": "/game_dog/static/js/main.e453b08b.chunk.js.map",
+    "main.js": "/game_dog/static/js/main.2ba75590.chunk.js",
+    "main.js.map": "/game_dog/static/js/main.2ba75590.chunk.js.map",
     "runtime-main.js": "/game_dog/static/js/runtime-main.65d27b20.js",
     "runtime-main.js.map": "/game_dog/static/js/runtime-main.65d27b20.js.map",
     "static/js/2.f6e7e21b.chunk.js": "/game_dog/static/js/2.f6e7e21b.chunk.js",
     "static/js/2.f6e7e21b.chunk.js.map": "/game_dog/static/js/2.f6e7e21b.chunk.js.map",
     "index.html": "/game_dog/index.html",
-    "precache-manifest.0aaf6f75615a4a6a0c198f12fa0a6e40.js": "/game_dog/precache-manifest.0aaf6f75615a4a6a0c198f12fa0a6e40.js",
+    "precache-manifest.8d9c8fb53b85d6fd4e9b999c6c455205.js": "/game_dog/precache-manifest.8d9c8fb53b85d6fd4e9b999c6c455205.js",
     "service-worker.js": "/game_dog/service-worker.js",
     "static/css/main.2c7d709b.chunk.css.map": "/game_dog/static/css/main.2c7d709b.chunk.css.map",
     "static/js/2.f6e7e21b.chunk.js.LICENSE.txt": "/game_dog/static/js/2.f6e7e21b.chunk.js.LICENSE.txt",
-    "static/media/gryphon.jpg": "/game_dog/static/media/gryphon.4e2b0b6d.jpg",
+    "static/media/Sasha.jpg": "/game_dog/static/media/Sasha.bb3d38dd.jpg",
     "static/media/vystrel-drobovika.mp3": "/game_dog/static/media/vystrel-drobovika.7b484a18.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.65d27b20.js",
     "static/js/2.f6e7e21b.chunk.js",
     "static/css/main.2c7d709b.chunk.css",
-    "static/js/main.e453b08b.chunk.js"
+    "static/js/main.2ba75590.chunk.js"
   ]
 }
